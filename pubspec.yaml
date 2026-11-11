@@ -1,0 +1,12 @@
+name: voxrule
+description: "Pure Dart RPG/strategy rules toolkit: stackable status effects, DoT/HoT ticks, shield absorption, multi-charge cooldowns, ATB/initiative turn schedulers, and combat damage resolution."
+version: 0.1.0
+repository: https://github.com/soulwax/voxrule
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
